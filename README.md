@@ -16,7 +16,7 @@ npm run build
 ### Run Example
 
 ```
-npm run example
+npm run start
 ```
 
 ## Ward Data
