@@ -1,0 +1,20 @@
+{
+  "name": "turfjs-addon-polygonsNotInPolygon",
+  "version": "1.0.0",
+  "description": "a helper function that returns those polygons that are not contained within some target polygon.",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel ./example/index.html",
+    "build": "parcel build ./src/polygonsInPolygon.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "normalize.css": "^8.0.1",
+    "ol": "^5.3.3"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
