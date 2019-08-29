@@ -18,9 +18,3 @@ npm run build
 ```
 npm run start
 ```
-
-## Ward Data
-
-Obtained from:
-
-* https://open.toronto.ca/dataset/city-wards/
